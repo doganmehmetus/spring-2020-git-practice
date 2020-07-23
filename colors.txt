@@ -7,3 +7,4 @@ orange
 blue
 black
 dark blue
+violet
