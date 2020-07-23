@@ -8,3 +8,4 @@ blue
 black
 dark blue
 violet
+white
